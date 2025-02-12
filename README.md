@@ -6,10 +6,6 @@ This project is an API Benchmark Tool that allows users to test the performance 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Components](#components)
-- [Utilities](#utilities)
-- [Configuration](#configuration)
 - [Scripts](#scripts)
 
 ## Installation
